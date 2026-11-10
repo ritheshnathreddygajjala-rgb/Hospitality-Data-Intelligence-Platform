@@ -56,7 +56,7 @@ Creates analytical datasets to address the following business requirements:
 
 An interactive Hotel Booking Dashboard was developed using Databricks AI/BI Dashboards to visualize business performance and booking trends.
 
-**Dashboard Report:** [View Dashboard PDF](Dashboard/Hotel_Booking_Dashboard.pdf)
+**Dashboard Report:** [View Dashboard PDF](Hotel Booking Analytics Dashboard 2026-11-10 13_22_01 2026-11-10 09_26.pdf)
 
 ## Pipeline Automation
 
