@@ -24,7 +24,7 @@ This project follows the Medallion Architecture:
 
 **Bronze → Silver → Gold → Dashboard**
 
-![Hotel Booking Architecture](Pipeline/pipeline architecture diagram.png)
+![Hotel Booking Architecture](Pipeline/pipeline%20architecture%20diagram.png)
 
 ## Data Engineering Workflow
 
